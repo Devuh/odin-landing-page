@@ -133,3 +133,34 @@ img {
 .full-quote {
     margin: 100px;
 }
+
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: #3882f6;
+    border-radius: 6px;
+    width: 1000px;
+    height: 125px;
+    margin: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.signup-button-end {
+    border: 2px #e5e7eb solid;
+    border-radius: 8px;
+    padding: 5px 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 40px 0px;
+}
